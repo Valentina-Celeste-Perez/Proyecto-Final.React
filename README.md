@@ -13,3 +13,5 @@ Uso de la app
 Ingresando a la pagina web, el usuario podra ver todos los productos y hacien click en ver más podrá ver el detalle del mismo, y podrá ingresar la cantidad de productos que quiere, o volver a la pagina de inicio para solicitar otro producto.
 Cada producto agregado se ve en el carrito, al que se accede haciendo click en el icono del mismo (arriba a la derecha.)
 Para realizar la compra, debe ingresar al carrito, clickar en confirmar compra, y completar el formulario con sus datos.
+
+Link del video mostrando la  navegabilidad de la app. https://photos.app.goo.gl/pTApfHYjHWNihQar7

@@ -3,7 +3,7 @@ import {
     addDoc,
     collection,
     getFirestore,
-    writeBatch,
+    writeBatch,  
     query,
     where,
     getDocs,

@@ -30,7 +30,7 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div class="footer_pay col-4">
-                    <h4 class="footer_enc">FORMAS DE PAGO</h4>
+                    <h4 class="footer_enc">FORMAS DE PAGO</h4> 
                     <div class="icon">
                         <img class="icon_item" src="./img/iconos/visa.png" alt="icon_visa"/>
                         <img class="icon_item" src="./img/iconos/mastercard.png" alt="icon_mc"/>
